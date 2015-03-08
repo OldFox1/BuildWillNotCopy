@@ -1,0 +1,9 @@
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\bin\Debug\Bar.exe.config
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\bin\Debug\Bar.exe
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\bin\Debug\Bar.pdb
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\bin\Debug\Foo.dll
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\bin\Debug\Foo.pdb
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\obj\Debug\Bar.csprojResolveAssemblyReference.cache
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\obj\Debug\Bar.exe
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\obj\Debug\Bar.pdb
+c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Bar\bin\Debug\Libs\cef.pak
