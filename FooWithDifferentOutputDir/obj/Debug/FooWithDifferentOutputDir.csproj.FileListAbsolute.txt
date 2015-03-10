@@ -1,0 +1,9 @@
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\bin\Debug\FooWithDifferentOutputDir.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\bin\Debug\FooWithDifferentOutputDir.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\bin\Debug\Libs\cef.pak
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarShareOutputDir\bin\Debug\Libs\cef.pak
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarShareOutputDir\bin\Debug\FooWithDifferentOutputDir.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarShareOutputDir\bin\Debug\FooWithDifferentOutputDir.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithDifferentOutputDir\obj\Debug\FooWithDifferentOutputDir.csprojResolveAssemblyReference.cache
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithDifferentOutputDir\obj\Debug\FooWithDifferentOutputDir.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithDifferentOutputDir\obj\Debug\FooWithDifferentOutputDir.pdb

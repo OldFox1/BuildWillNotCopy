@@ -1,0 +1,6 @@
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithPostEvent\bin\Debug\Libs\cef.pak
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithPostEvent\bin\Debug\FooWithPostEvent.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithPostEvent\bin\Debug\FooWithPostEvent.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithPostEvent\obj\Debug\FooWithPostEvent.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithPostEvent\obj\Debug\FooWithPostEvent.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooWithPostEvent\obj\Debug\FooWithPostEvent.csprojResolveAssemblyReference.cache

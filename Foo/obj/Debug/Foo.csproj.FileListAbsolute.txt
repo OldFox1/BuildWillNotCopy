@@ -1,5 +1,5 @@
-c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\bin\Debug\Foo.dll
-c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\bin\Debug\Foo.pdb
-c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\obj\Debug\Foo.dll
-c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\obj\Debug\Foo.pdb
-c:\users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\bin\Debug\Libs\cef.pak
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\bin\Debug\Libs\cef.pak
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\bin\Debug\Foo.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\bin\Debug\Foo.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\obj\Debug\Foo.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\Foo\obj\Debug\Foo.pdb

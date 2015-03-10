@@ -1,0 +1,9 @@
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\bin\Debug\Libs\cef.pak
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\bin\Debug\BarWithPreEvent.exe.config
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\bin\Debug\BarWithPreEvent.exe
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\bin\Debug\BarWithPreEvent.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\bin\Debug\FooWithPostEvent.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\bin\Debug\FooWithPostEvent.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\obj\Debug\BarWithPreEvent.csprojResolveAssemblyReference.cache
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\obj\Debug\BarWithPreEvent.exe
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\BarWithPreEvent\obj\Debug\BarWithPreEvent.pdb

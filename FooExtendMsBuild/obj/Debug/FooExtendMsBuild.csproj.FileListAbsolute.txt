@@ -1,0 +1,6 @@
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooExtendMsBuild\bin\Debug\Libs\cef.pak
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooExtendMsBuild\bin\Debug\FooExtendMsBuild.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooExtendMsBuild\bin\Debug\FooExtendMsBuild.pdb
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooExtendMsBuild\obj\Debug\FooExtendMsBuild.csprojResolveAssemblyReference.cache
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooExtendMsBuild\obj\Debug\FooExtendMsBuild.dll
+C:\Users\barak.h\documents\visual studio 2013\Projects\BuildWillNotCopy\FooExtendMsBuild\obj\Debug\FooExtendMsBuild.pdb
